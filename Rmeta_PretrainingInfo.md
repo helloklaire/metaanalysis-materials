@@ -37,7 +37,8 @@ We will be using a number of example datasets for the workshop. Before the train
 - Herranz-Gomez et al 2024 - https://github.com/helloklaire/metaanalysis-materials/blob/main/Herranz-Gomez%20et%20al%202024.csv
 
 Download the file by clicking the download button (see below)
-![[Pasted image 20240220232128.png]]
+![Pasted image 20240220232128](https://github.com/helloklaire/metaanalysis-materials/assets/96212126/d5dd490e-fa2e-4a1a-b3f3-7f22ab6cc621)
+
 ## Caveats and other resources to learn more about meta-analysis
 
 Meta-analysis is a powerful tool for evaluating the research evidence. This training is just a start and in no-way will try to teach you everything about meta-analyses. This training is conceptual and omit a lot of the more involved mathematical stuff. The focus is on understanding what meta-analysis is doing… and then we’ll spend most of the time applying this understanding in the R language. The idea is to bootstrap your knowledge as quickly as possible so that you can start with your own analyses and then turn to more technical texts if needed.
